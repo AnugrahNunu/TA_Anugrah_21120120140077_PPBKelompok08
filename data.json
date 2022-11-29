@@ -1,0 +1,652 @@
+{
+    "general": [
+        {
+            "id": "1",
+            "name": "Middle East Style",
+            "description": "    Desain interior ala timur tengah juga identik dengan gaya dekorasi menggunakan perabotan mewah, dibumbui dengan barang-barang buatan tangan dan pola hiasan tradisional. Interior ala timur tengah ini selalu dikaitkan dengan kekayaan dan kenyamanan. Ia mencerminkan kekayaan budaya, kedalaman kebijaksanaan dan sedikit misteri zaman kuno."
+        },
+        {
+            "id": "2",
+            "name": "Futuristic",
+            "description": "    Desain modern sendiri hanya merujuk pada satu gaya desain tertentu yang sedang berkembang dan hanya digunakan pada satu periode tertentu. Desain ini pun memiliki ciri khas dan karakteristik tampilan ruangan yang bersih, rapi, dan cenderung minim dekorasi."
+        },
+        {
+            "id": "3",
+            "name": "Europe",
+            "description": "    Rumah dengan gaya Eropa banyak membawa pengaruh pada desain rumah di beberapa negara yang pernah berada di bawah penjajahannya. Desain Eropa memiliki aura yang khas yang menunjukkan keeleganan yang klasik namun abadi. "
+        },
+        {
+            "id": "4",
+            "name": "Asia",
+            "description": "    Umumnya, arsitektur dan rumah bergaya Asia memadukan elemen arsitektur tradisional dari China, Jepang, dan Korea Selatan. Gaya arsitektur oriental ini dirancang dengan ruang tamu lapang yang memungkinkan sirkulasi udara dan cahaya masuk ke dalam rumah dengan lebih baik. Desain seperti ini dinilai dapat meningkatkan kualitas hidup penghuninya."
+        }
+    ],
+    "detail": [
+        {
+            "id": 1,
+            "name": "Meja"
+        },
+        {
+            "id": 2,
+            "name": "Kursi"
+        },
+        {
+            "id": 3,
+            "name": "Rak"
+        },
+        {
+            "id": 4,
+            "name": "Lemari"
+        },
+        {
+            "id": 5,
+            "name": "Vas"
+        },
+        {
+            "id": 6,
+            "name": "Kasur"
+        },
+        {
+            "id": 7,
+            "name": "Sofa"
+        },
+        {
+            "id": 8,
+            "name": "Lukisan"
+        }
+    ],
+    "About": [
+        {
+            "name": "Anugrah",
+            "nim": "21120120140077",
+            "description": "anak pertama dari dua bersaudara. Lahir di Kuningan tanggal 29 November 2001. Telah menempuh pendidikan sekolah dasar di SDN 09 Jatimulya dari tahun 2008 dan lulus pada tahun 2014. Telah menempuh pendidikan sekolah menengah pertama di SMPN 33 Kota Bekasi dari tahun 2014 sampai dengan tahun 2017. Telah menempuh pendidikan menengah atas di SMAN 09 Kota Bekasi sejak tahun 2017 sampai lulus pada tahun 2020. Saat ini sedang menempuh pendidikan Strata Satu Program Studi Teknik Komputer, Fakultas Teknik, Universitas Diponegoro.",
+            "url": "https://siap.undip.ac.id/foto/ktm/2020/21120120140077-0dcfcd75-81ab-4586-93bd-1e4c938ea652.jpg"
+        }
+    ],
+    "Meja": [
+        {
+            "id": 1,
+            "name": "Arc En Ciel 346",
+            "description": "Meja minimalis yang cocok untuk diletakkan di teras rumah",
+            "harga": "Rp 500.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Archimede",
+            "description": "Meja lipat yang yang dapat disimpan dan digunakan kapanpun dimanapun",
+            "harga": "Rp 300.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Boston 42.11",
+            "description": "Meja yang nyaman untuk tempat belajar",
+            "harga": "Rp 350.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Brenta-R 8057 GM",
+            "description": "Meja yang cukup besar untuk diletakkan pada ruang makan",
+            "harga": "Rp 500.000,00"
+        },
+        {
+            "id": 5,
+            "name": "CB4053-R La Locanda Outlet",
+            "description": "Meja ini cocok untuk meletakkan berbagai macam vas bunga untuk mempercantik ruangan",
+            "harga": "Rp 400.000,00"
+        },
+        {
+            "id": 6,
+            "name": "CB4739-R Giove Outlet",
+            "description": "Meja dengan model klasik yang cocok digunakan pada kafe",
+            "harga": "Rp 300.000,00"
+        },
+        {
+            "id": 7,
+            "name": "Clip",
+            "description": "Meja kecil untuk bersantai dengan sahabat di waktu senggang",
+            "harga": "Rp 200.000,00"
+        },
+        {
+            "id": 8,
+            "name": "Claro",
+            "description": "Meja untuk pelanggan yang ingin menikmati makanan outdoor bagi kalian yang ingin membuka restoran",
+            "harga": "Rp 200.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+    "Bangku": [
+        {
+            "id": 1,
+            "name": "110",
+            "description": "Kursi sederhana yang digunakan untuk menikmati hidangan makan malam bersama keluarga",
+            "harga": "Rp 100.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Abuela B",
+            "description": "Kursi bagi anak-anak yang masih kesulitan menggapai meja makan",
+            "harga": "Rp 150.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Acquamarina",
+            "description": "Kursi duduk untuk berjemur dengan orang tersayang",
+            "harga": "Rp 200.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Aida",
+            "description": "Bagi kalian yang memiliki selera yang elegan, kursi ini cocok untuk ditempatkan pada ruang makan kalian",
+            "harga": "Rp 400.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Air-Armchair",
+            "description": "Melakukan aktivitas outdoor seperti memancing akan lebih nyaman jika menggunakan kursi ini",
+            "harga": "Rp 200.000,00"
+        },
+        {
+            "id": 6,
+            "name": "Akami Office",
+            "description": "Kursi kantor untuk kalian yang lama bekerja di depan komputer",
+            "harga": "Rp 300.000,00"
+        },
+        {
+            "id": 7,
+            "name": "Amarna",
+            "description": "Kursi ini cocok untuk menikmati waktu bersantai dengan meminum teh ditemani dengan biskuit",
+            "harga": "Rp 450.000,00"
+        },
+        {
+            "id": 8,
+            "name": "CB1030 Jam",
+            "description": "Kursi tunggu yang biasa digunakan di rumah sakit maupun klinik",
+            "harga": "Rp 200.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Rak": [
+        {
+            "id": 1,
+            "name": "Sound-Rack",
+            "description": "Rak yang dapat digunakan sebagai tempat menyimpan barang koleksi kalian",
+            "harga": "Rp 900.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Fluida",
+            "description": "Tempat penyimpanan barang dengan desain dan mekanik yang stylish",
+            "harga": "Rp 800.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Linear M",
+            "description": "Bagi kalian kolektor sepatu, rak ini sangat cocok digunakan untuk menempatkan koleksi sepatu anda",
+            "harga": "Rp 1.100.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Book 7492",
+            "description": "Tempat penyimpanan buku kalian yang masih belum selesai kalian baca",
+            "harga": "Rp 200.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Cantinetta",
+            "description": "Menyimpan simpanan wine kalian secara elegan",
+            "harga": "Rp 400.000,00"
+        },
+        {
+            "id": 6,
+            "name": "Metalpop",
+            "description": "Rak sepatu dengan tampilan baru yang dapat kalian letakkan di teras rumah kalian",
+            "harga": "Rp 500.000,00"
+        },
+        {
+            "id": 7,
+            "name": "Hosoi 0961",
+            "description": "Dilengkapi dengan cermin bundar, rak satu ini sangat dianjurkan untuk menyimpan peralatan kosmetik kalian",
+            "harga": "Rp 1.300.000,00"
+        },
+        {
+            "id": 8,
+            "name": "Battista",
+            "description": "Tempat menggantungkan jaket sampai topi milik tamu yang bertamu ke kediaman",
+            "harga": "Rp 200.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Lemari": [
+        {
+            "id": 1,
+            "name": "Kabino-S",
+            "description": "Desain polos dan penting untuk bufet serbaguna dan elegan ini, cocok untuk setiap lingkungan dan untuk beberapa fungsi.",
+            "harga": "Rp 1.200.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Whitebird&Blackbird-B",
+            "description": "Praktis, elegan, serbaguna. Bird dapat digunakan sebagai lemari untuk ruang tamu, sebagai bufet atau rak buku, berkat beberapa kompartemen dan rak.",
+            "harga": "Rp 2.000.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Safo",
+            "description": "Strukturnya terbuat dari kayu mangga besar, sedangkan sandaran dan bagian dalam laci terbuat dari MDF.",
+            "harga": "Rp 1.000.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Elva",
+            "description": "Cocok untuk ruang tamu rumah, lemari pedesaan ini terbuat dari kayu akasia besar India.",
+            "harga": "Rp 1.300.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Cassanova",
+            "description": "Casanova seluruhnya terbuat dari kayu ek padat; itu bisa berupa lemari TV atau hanya sebagai bufet.",
+            "harga": "Rp 1.200.000,00"
+        },
+        {
+            "id": 6,
+            "name": "Maya 8630",
+            "description": "Desain minimalis dan geometris menjadi ciri bufet kayu ini, Maya sangat cocok dengan interior modern dan klasik.",
+            "harga": "Rp 1.500.000,00"
+        },
+        {
+            "id": 7,
+            "name": "Wave",
+            "description": "Garis sederhana dan bersih menjadi ciri bufet kayu yang elegan ini, yang terinspirasi dari desain Skandinavia.",
+            "harga": "Rp 1.300.000,00"
+        },
+        {
+            "id": 8,
+            "name": "Fashion",
+            "description": "Garis esensial dan polos untuk bufet Fashion, tersedia dalam beberapa warna dan sentuhan akhir untuk memuaskan setiap selera dan kebutuhan.",
+            "harga": "Rp 1.700.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Vas": [
+        {
+            "id": 1,
+            "name": "Vase Roman Set",
+            "description": "Vase Roman adalah satu set desain yang terdiri dari 4 vas, disajikan di sini dalam nuansa hijau (hijau abu-abu, hijau tua, hijau muda dan kuning) dan matahari terbenam (merah muda, krem, merah, oranye).",
+            "harga": "Rp 500.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Hongkong Vase",
+            "description": "Set vas Hong Kong, dibuat untuk Polspotten oleh Norman Trapman, mencerminkan karakter artis yang ceria, elegan, dan ikonik.",
+            "harga": "Rp 700.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Tribal Vase",
+            "description": "Garis vas ini terinspirasi dari bentuk topeng suku. Bentuk pahatan mereka dilengkapi dengan cara yang sederhana namun tegas, baik digunakan secara individual maupun dikombinasikan dengan vas lainnya.",
+            "harga": "Rp 400.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Magnolia Vase",
+            "description": "Koleksi vas Magnolia sangat elegan. Buatan tangan, vasnya terbuat dari kristal dua warna, dengan bagian bawah transparan dan bagian atas berwarna.",
+            "harga": "Rp 250.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Cobra Vase",
+            "description": "Deretan vas keramik ini terinspirasi dari gerakan seni Cobra tahun 1960-an.",
+            "harga": "Rp 300.000,00"
+        },
+        {
+            "id": 6,
+            "name": "Vase Roman Brown Set",
+            "description": "Vase Roman adalah satu set desain yang terdiri dari 3 vas, disajikan di sini dalam nuansa cokelat: karat gelap, karat jingga, dan krem.",
+            "harga": "Rp 500.000,00"
+        },
+        {
+            "id": 7,
+            "name": "Edison Vase",
+            "description": "Koleksi vas Edison dari Serax memperkaya perabot rumah tangga dengan sentuhan yang ringan dan tidak biasa.",
+            "harga": "Rp 600.000,00"
+        },
+        {
+            "id": 8,
+            "name": "Splash",
+            "description": "Vas warna-warni dengan pola yang menyenangkan ini merupakan tambahan yang ideal untuk setiap ruangan. Ini bisa digunakan untuk menyimpan bunga, tapi juga hanya sebagai objek dekoratif.",
+            "harga": "Rp 900.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Kasur": [
+        {
+            "id": 1,
+            "name": "Wave Bed",
+            "description": "Tempat tidur luar ruangan khusus yang terletak langsung di tanah. Bentuknya mengingatkan pada futon Jepang, sedangkan kain penutupnya mengingatkan pada gaya Mediterania.",
+            "harga": "Rp 1.200.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Air",
+            "description": "Sempurna untuk melengkapi kamar tidur dengan sentuhan gaya dan kepribadian, Air double bed terinspirasi oleh desain nordic, dengan bingkai kayu yang esensial dan halus.",
+            "harga": "Rp 1.900.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Madra",
+            "description": "Ditandai dengan rangka tempat tidur yang elegan dan kokoh yang terbuat dari kayu ek, Madra adalah tempat tidur serbaguna dan halus yang sempurna untuk melengkapi kamar tidur dengan sentuhan gaya dan kepribadian.",
+            "harga": "Rp 2.000.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Nordic II",
+            "description": "Tempat tidur ganda Ethnicraft, model Nordic II, dibuat mengikuti garis jajaran Nordik. Koleksi ini ditandai dengan ruang terbuka di bagian bawah furnitur.",
+            "harga": "Rp 3.000.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Spindle",
+            "description": "Tempat tidur Spindle memiliki struktur kayu ek padat dan ditandai dengan sandaran asli dengan bilah vertikal.",
+            "harga": "Rp 1.900.000,00"
+        },
+        {
+            "id": 6,
+            "name": "Basic",
+            "description": "Dengan garis esensial dan elegannya, tempat tidur modern ini cocok untuk setiap jenis dekorasi rumah.",
+            "harga": "Rp 2.200.000,00"
+        },
+        {
+            "id": 7,
+            "name": "Easy",
+            "description": "Tempat tidur double yang elegan terbuat dari kayu, bercirikan desain kontemporer, ringan dan esensial.",
+            "harga": "Rp 2.000.000,00"
+        },
+        {
+            "id": 8,
+            "name": "Claude",
+            "description": "Tempat tidur Claude memiliki desain klasik, dengan sandaran kepala capitonné yang memberikan sentuhan halus. Itu datang dalam tiga ukuran.",
+            "harga": "Rp 2.500.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Sofa": [
+        {
+            "id": 1,
+            "name": "Mara Sofa",
+            "description": "Sofa luar ruangan yang nyaman dan ramah cocok untuk melengkapi taman dan teras, di rumah dan untuk proyek kontrak.",
+            "harga": "Rp 1.500.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Arbour Sofa",
+            "description": "Sofa Arbor memiliki desain yang terinspirasi Skandinavia yang menonjol karena kesederhanaan dan kelembutan bentuknya.",
+            "harga": "Rp 1.400.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Pop Sofa",
+            "description": "Sofa desainer dua tempat duduk dengan struktur seluruhnya terbuat dari polikarbonat, bahan plastik yang ringan, fleksibel, dan tahan lama. Ideal untuk rumah muda dan modern yang tidak ingin menyerah pada keanggunan.",
+            "harga": "Rp 1.500.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Swell Sofa",
+            "description": "Namanya mengacu pada roti mengembang dengan bentuknya yang penuh, untuk menandakan bentuk Sofa Swell yang lembut dan melengkung, yang memberikan kenyamanan duduk yang luar biasa.",
+            "harga": "Rp 1.800.000,00"
+        },
+        {
+            "id": 5,
+            "name": "AAL Sofa",
+            "description": "Sofa AAL memiliki desain Nordik, dengan garis-garis esensial dan lembut. Kaki-kakinya terbuat dari kayu solid, tersedia dalam tiga sentuhan akhir.",
+            "harga": "Rp 1.700.000,00"
+        },
+        {
+            "id": 6,
+            "name": "Pop Duo Sofa",
+            "description": "Sofa desainer tiga tempat duduk dengan struktur seluruhnya terbuat dari polikarbonat, bahan plastik yang ringan, fleksibel, dan tahan lama. Ideal untuk rumah muda dan modern yang tidak ingin menyerah pada keanggunan.",
+            "harga": "Rp 2.200.000,00"
+        },
+        {
+            "id": 7,
+            "name": "Foliage Sofa",
+            "description": "Sofa desainer yang mengekspresikan dialog antara alam dan buatan. Kursi empuk membangkitkan citra mahkota pohon, yang daunnya disorot dengan jahitan khusus.",
+            "harga": "Rp 2.000.000,00"
+        },
+        {
+            "id": 8,
+            "name": "Pop Outdoor Sofa",
+            "description": "Sofa outdoor dengan struktur yang seluruhnya terbuat dari polikarbonat, bahan plastik yang ringan, fleksibel dan tahan lama, juga tahan terhadap cuaca.",
+            "harga": "Rp 2.000.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Lukisan": [
+        {
+            "id": 1,
+            "name": "Coeur Rouge",
+            "description": "Pohon dengan latar belakang abu-abu kebiruan; dedaunan biru dan merah pada penyangga gabus. Makalah berkualitas",
+            "harga": "Rp 11.500.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Grand Bleu",
+            "description": "Karya diproduksi pada tahun 2012 dan dipamerkan di Condat sur Vézère. Karya ini adalah bagian dari triptych.",
+            "harga": "Rp 11.400.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Tapis Indien",
+            "description": "Diproduksi pada tahun 2017. Di atas karton, kumpulan kertas yang dipilih dengan cermat menciptakan suasana yang lembut dan dinamis.",
+            "harga": "Rp 11.500.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Ambiance1",
+            "description": "Karya dihasilkan pada tahun 2016. Setiap karya 'dibungkus' dengan kertas berkualitas.",
+            "harga": "Rp 11.800.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Ambiance Rose",
+            "description": "Di atas karton tipis, kolase kertas berkualitas. Realisasi tahun 2020",
+            "harga": "Rp 11.700.000,00"
+        },
+        {
+            "id": 6,
+            "name": "Paysage",
+            "description": "Di atas karton sarang lebah, karya dibuat dari potongan kertas kecil.",
+            "harga": "Rp 12.200.000,00"
+        },
+        {
+            "id": 7,
+            "name": "Legerete",
+            "description": "Bekerja dengan seniman yang tinggal di Albi: dengan tema yang sama, kedua seniman ini membuat dua karya berbeda dengan tema yang sama.",
+            "harga": "Rp 12.000.000,00"
+        },
+        {
+            "id": 8,
+            "name": "Arbre De Vie",
+            "description": "Bingkai kayu dan kaca. Dibuat pada tahun 2020. Kertas dan karton berkualitas",
+            "harga": "Rp 12.000.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "MES": [
+        {
+            "id": 1,
+            "name": "Vas",
+            "description": "Sepasang Vas Kuningan Timur Tengah Dekorasi terkesan dengan ikan, burung, dan rusa.",
+            "harga": "Rp 3.500.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Sofa",
+            "description": "sarung sofa seersucker berkualitas tinggi untuk rok sofa ruang tamu anti debu Sarung lembut unik untuk sarung sofa sofa",
+            "harga": "Rp 2.400.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Lukisan",
+            "description": "Seni kanvas Zellij, Meknes, Maroko oleh Merrill Images siap untuk digantung, dengan aksesori gantung disertakan dan tidak diperlukan pembingkaian tambahan.",
+            "harga": "Rp 1.500.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Meja",
+            "description": "Meja kopi kayu keras Timur Tengah abad ke-20, bagian atas dibentuk dari pintu baja Oman, di atas kaki balok berukir, tinggi sekitar 37cm, panjang sekitar 125cm, lebar sekitar 94cm.",
+            "harga": "Rp 1.200.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Kursi",
+            "description": "Duo desain Nipa Doshi dan Jonathan Levien menciptakan kursi lounge Uchiwa yang terinspirasi dari kipas tangan tradisional Jepang.",
+            "harga": "Rp 1.000.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Modern": [
+        {
+            "id": 1,
+            "name": "Vas",
+            "description": "Tersedia dalam tiga warna (Crystal Clear, Rosalin, dan Smoke), vas kaca batang tunggal ini terbuat dari kristal yang ditiup mulut dan dirancang untuk menyerupai bunga.",
+            "harga": "Rp 500.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Sofa",
+            "description": "VELO adalah sofa modern yang unik dan tidak dapat diulang. Sebagian besar sofa di pasaran sangat mirip satu sama lain sehingga setelah melihat selusin model, semua sofa tampak identik dengan kita.",
+            "harga": "Rp 2.400.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Lukisan",
+            "description": "Berharap Anda dapat menemukan Seni Dinding Kanvas yang paling cocok di toko saya untuk dekorasi rumah Anda yang indah.",
+            "harga": "Rp 3.500.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Meja",
+            "description": "Pedestal Coffee Table",
+            "harga": "Rp 1.200.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Kursi",
+            "description": "Kursi makan Suriah Timur Tengah (20th Cent) dengan sandaran berbentuk bertatahkan di bagian depan dan belakang dengan kursi berlapis kain. 1 lengan 26'w x 28'd x 42½'h; 5 sisi.",
+            "harga": "Rp 800.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Europe": [
+        {
+            "id": 1,
+            "name": "Vas",
+            "description": "Rape of Europa Europe and Bull God Zeus Vase Ancient Greek Pottery Ceramic",
+            "harga": "Rp 4.500.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Sofa",
+            "description": "Europian style fabric sofa",
+            "harga": "Rp 2.400.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Lukisan",
+            "description": "Eropa Pemandangan Kota Lukisan Asli Eropa Dinding Seni Kanvas Kota Karya Seni Dekorasi Ruang Tamu Warna-warni Malam Di Kota Tua Lviv Lukisan Cat Minyak",
+            "harga": "Rp 3.500.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Meja",
+            "description": "17th century South European table",
+            "harga": "Rp 1.200.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Kursi",
+            "description": "Rustic Luxury Leather Furniture, Arm Chair, European Style",
+            "harga": "Rp 800.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ],
+
+    "Asia": [
+        {
+            "id": 1,
+            "name": "Vas",
+            "description": "Vas porselen Cina abad ke-18",
+            "harga": "Rp 4.500.000,00"
+        },
+        {
+            "id": 2,
+            "name": "Sofa",
+            "description": "Sofa Japan Headboard Double",
+            "harga": "Rp 2.400.000,00"
+        },
+        {
+            "id": 3,
+            "name": "Lukisan",
+            "description": "Lotus Asian Painting",
+            "harga": "Rp 3.500.000,00"
+        },
+        {
+            "id": 4,
+            "name": "Meja",
+            "description": "17th century South European taAsian Style Black Lacquered Coffee Table with 4 Stoolsble",
+            "harga": "Rp 1.200.000,00"
+        },
+        {
+            "id": 5,
+            "name": "Kursi",
+            "description": "Mahogany Finish Elmwood Wang Zi Chinese Sofa Chair",
+            "harga": "Rp 800.000,00"
+        },
+        {
+            "desc": "Deskripsi: ",
+            "price": "Harga Pasar: "
+        }
+    ]
+}
